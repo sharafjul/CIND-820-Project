@@ -6,7 +6,7 @@ in order to build predictive model for success and failure raising funds.
 
 The study is divided into the following steps:
 
-    - Data wrangling & Data cleansing*, aimed at merging the tables, 
+    - Data wrangling & Data cleansing, aimed at merging the tables, 
     remove missing values, and ricombine data in more informating tables
     - Exploratory Data Analysis, in which we will have a general view of the data and the relations between variables
     - Feature Engeneering, in which new more explanatory variables will be created
