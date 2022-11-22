@@ -17,3 +17,13 @@ Feature Engeneering, in which new more explanatory variables will be created
 Feature Selection, aimed at obtaining a unique dataset on which models will be built
 
 Data modelling, in which are used a Decision Tree, KNN, Naive Bayes and a Random Forest to predict the dependent variable. 
+
+
+
+The dataset used for this project: https://data.world/datanerd/startup-venture-funding
+
+Report: 
+
+
+By: Iuliia Sharafutdinova isharafutdinova@ryerson.ca
+Supervisor: Uzair Ahmad, Ph.D 
