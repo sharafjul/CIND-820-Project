@@ -6,7 +6,7 @@ in order to build predictive model for success and failure raising funds.
 
 
 
-The study is divided into the following steps:
+-The study is divided into the following steps:
 
 Data wrangling & Data cleansing, aimed at merging the tables,remove missing values, and ricombine data in more informating tables
 
