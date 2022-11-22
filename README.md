@@ -22,7 +22,7 @@ Data modelling, in which are used a Decision Tree, KNN, Naive Bayes and a Random
 
 The dataset used for this project: https://data.world/datanerd/startup-venture-funding
 
-Report: 
+Report: https://github.com/sharafjul/CIND-820-Project/blob/main/Big%20Data%20Analytics%20Project.pdf 
 
 
 By: Iuliia Sharafutdinova isharafutdinova@ryerson.ca
