@@ -27,4 +27,4 @@ Report: https://github.com/sharafjul/CIND-820-Project/blob/main/Big%20Data%20Ana
 
 By: Iuliia Sharafutdinova isharafutdinova@ryerson.ca
 
-Supervisor: Uzair Ahmad, Ph.D 
+Supervisor: Uzair Ahmad, Ph.D uzair@ryerson.ca
